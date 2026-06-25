@@ -2,8 +2,6 @@
 
 CV Application/Builder built using Create React App.
 
-### [View the demo](https://faishalirwn.github.io/cv-application/)
-
 ![Screenshot](./cv-app.png)
 
 ## Purpose
